@@ -91,5 +91,5 @@ The goal is to transform raw data into meaningful insights that can help managem
 This project demonstrates how data analysis can help businesses understand their performance, identify challenges, and make better business decisions.
 
 **Author:** Ifunanya Onyekwelu  
-**Role:** Aspiring Data Analyst  
+**Role:** Junior Data Analyst  
 **Project:** Supermarket Sales Data Analysis
