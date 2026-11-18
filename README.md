@@ -6,9 +6,9 @@ This project analyses supermarket sales data to understand business performance,
 The goal is to transform raw data into meaningful insights that can help management make informed business decisions.
 
 ## 2. Dataset
-- **Dataset:** Supermarket Sales
+- **Dataset:** Supermarket Large Dataset
 - **Source:** Kaggle
-- **Link:** https://www.kaggle.com/datasets/datascikhan/supermarket/data
+- **Link:** https://www.kaggle.com/datasets/thanhbinh2412/supermarket-large-dataset
 
 ## 3. Project Objectives
 - Analyse supermarket sales performance.
