@@ -90,6 +90,36 @@ The goal is to transform raw data into meaningful insights that can help managem
 ## 9. Conclusion
 This project demonstrates how data analysis can help businesses understand their performance, identify challenges, and make better business decisions.
 
+## Key Insights
+
+**Tools used:** Microsoft Excel (Pivot Tables, formulas)
+**Data:** 120,000 transactions, 75,799 customers, 5,000 products, 45 categories (2023–2024)
+
+1. **Total profit is 3,770,441.83** on net sales of 10,454,215.92, an overall margin of about 36%.
+
+2. **Heavy discounting is the main cause of low profit.** Profit margin falls from 44% at no discount to 23% at 30% off, 8% at 40% off and **-6% at 50% off**. Sales at 40–50% off are about 10% of all transactions but only 0.3% of profit.
+
+3. **Discounts do not make customers buy more.** Customers buy about 8.8 items per sale at every discount level, so a bigger discount only lowers the price.
+
+4. **No category loses money, but 318 products do.** All 45 categories are profitable (lowest: Pens at 28,249.76), while 318 of 5,000 products lose a combined 59,471.23. The 10 worst products were sold at 40–50% discount on average.
+
+5. **Sales are flat and mostly in-store.** 2023 and 2024 sales are almost identical (about 5.2 million each). In-store is 59.8% of sales, and the Mobile App, Website, Click and Collect and Home Delivery bring the other 40%.
+
+6. **Most customers buy only once.** 58% of customers bought just once, yet repeat customers bring 63% of sales. The loyalty program makes almost no difference: members return at 42.1% against 41.7% for non-members.
+
+## Recommendations
+
+- Cap discounts at about 30% and review the loss-making products.
+- Use bundles and "buy more, save more" offers instead of deep price cuts.
+- Run campaigns in the weakest months (February and September).
+- Grow the Mobile App and delivery channels.
+- Focus on winning a second purchase, and make the loyalty program reward repeat buying.
+
+Before you publish, check two things:
+
+Make sure every number matches your Excel answers, since your README is only as good as your sheet.
+The 10% and 0.3% in point 2 come from my own check of the data, not from a pivot of yours. If you want to show them, add a pivot for them, or leave the line out.
+
 **Author:** Ifunanya Onyekwelu  
 **Role:** Junior Data Analyst  
 **Project:** Supermarket Sales Data Analysis
