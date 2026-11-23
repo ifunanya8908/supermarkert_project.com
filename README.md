@@ -115,10 +115,7 @@ This project demonstrates how data analysis can help businesses understand their
 - Grow the Mobile App and delivery channels.
 - Focus on winning a second purchase, and make the loyalty program reward repeat buying.
 
-Before you publish, check two things:
 
-Make sure every number matches your Excel answers, since your README is only as good as your sheet.
-The 10% and 0.3% in point 2 come from my own check of the data, not from a pivot of yours. If you want to show them, add a pivot for them, or leave the line out.
 
 **Author:** Ifunanya Onyekwelu  
 **Role:** Junior Data Analyst  
