@@ -116,6 +116,12 @@ This project demonstrates how data analysis can help businesses understand their
 - Focus on winning a second purchase, and make the loyalty program reward repeat buying.
 
 
+## <img width="756" height="376" alt="image" src="https://github.com/user-attachments/assets/847e957b-95b2-4eb1-87b0-241f06970cb9" />
+<img width="451" height="396" alt="image" src="https://github.com/user-attachments/assets/9957543e-2bab-4a5c-8936-dc27dbeec599" />
+<img width="436" height="413" alt="image" src="https://github.com/user-attachments/assets/c1c5120e-812e-4d0a-880b-593410b5debf" />
+
+
+
 
 **Author:** Ifunanya Onyekwelu  
 **Role:** Junior Data Analyst  
